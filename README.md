@@ -5,9 +5,8 @@ Models
  |__ 2_percent.h5
  |__ 4_percent.h5
  |__ 10_percent.h5
-Notebooks
- |__ Lab3.ipynb
- |__ Eval_and_good_model.ipynb
+Lab3.ipynb
+Eval_and_good_model.ipynb
 ```
 
 ## Description
