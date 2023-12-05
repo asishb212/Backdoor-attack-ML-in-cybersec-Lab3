@@ -5,6 +5,9 @@ Models
  |__ 2_percent.h5
  |__ 4_percent.h5
  |__ 10_percent.h5
+Reports
+ |__ df_acc_after_each_prune.csv
+ |__ df_attack_success_rates.csv
 Lab3.ipynb
 Eval_and_good_model.ipynb
 ```
@@ -14,6 +17,7 @@ Eval_and_good_model.ipynb
 #### ```Lab3.ipynb``` contains all the required code. (Pruning, evaluation on test images and building good model)
 #### ```Eval_and_good_model.ipynb``` contains code to use ```eval.py``` script to test repaired models and evaluate good models.
 #### ```Models``` directory contains 3 repaired networks where accuracy drops 2,4 and 10 respectively.
+#### ```Reports``` Accuracies and rate of attacks after each prune
 
 ## Evaluating repaired networks using ```Eval.py``` in ```CSAW-HackML-2020/lab3/```
 
